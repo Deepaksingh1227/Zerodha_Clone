@@ -1,0 +1,42 @@
+.Ticket-section h3{
+    font-size: 30px;
+    opacity: 0.7;
+}
+
+.Ticket-section h4{
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.Ticket-section a:hover{
+    color: rgb(70, 67, 67);
+
+}
+
+
+.support-Section{
+    width: 100vw;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: auto;
+    width: 70vw;
+}
+.container-Section{
+    background-color: rgba(56, 126, 209);
+    color: white;
+}
+
+
+
+
+.container-Section a{
+    text-decoration: underline;
+    color: white;
+    font-size: 20px;
+}
+.support-form{
+    width: 100%;
+    
+    
+}

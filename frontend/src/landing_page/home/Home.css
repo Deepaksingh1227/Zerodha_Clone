@@ -1,0 +1,273 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.HeroButton{
+    background-color: blue;
+    color: white;
+    border-radius:10px;
+    width:200px;
+    margin: auto;
+    font-size: 15px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom:10px;
+    margin-top:5px;
+    
+}
+
+.Award-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    align-content: center;
+    margin: auto;
+    width:80% !important;
+    height: 100vh;
+    
+}
+
+
+.Stats-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    align-content: center;
+    margin: auto;
+    width:95% !important;
+    flex-wrap: wrap;
+
+}
+
+.Ecosystem{
+    width: 100% !important;
+    height:90% !important;
+    flex-wrap: wrap;
+}
+
+.a{
+    text-decoration: none !important;
+}
+
+.Pricing-section h1{
+    
+    margin-top: 3rem;
+    padding: 10px;
+    
+}
+
+.Pricing-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    align-content: center;
+    margin: auto;
+    width:95% !important;
+    flex-wrap: wrap;
+}
+
+
+.Education-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    align-content: center;
+    margin: auto;
+    width:95% !important;
+    flex-wrap: wrap;
+}
+
+.Navbar_section{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0px 20px;
+    height:3rem;   
+}
+
+.Navbar_section img{
+    width:8rem;
+    margin-left: 6rem;
+    margin-right: 20rem;
+
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-between; 
+    width: 100%; 
+}
+
+.nav-item {
+    flex: 1;
+    text-align: center; 
+}
+
+.navbar-brand img {
+    max-width: 100px;
+}
+
+.form-inline {
+    display: flex; 
+    align-items: center; 
+    gap: 10px; 
+}
+
+.form-control {
+    flex: 1; 
+    max-width: 300px;
+}
+
+
+.btn {
+    white-space: now;
+    margin-right: 6rem;
+}
+
+.Footer-section img{
+    width:10rem;
+    margin-top: 4rem;
+}
+.Footer-Icon1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-right: 10rem;
+    
+}
+
+.Footer-Icon2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10rem;
+    
+    
+}
+.Footer-section{
+    background-color: rgb(244, 247, 248);
+    border-top: solid rgba(95, 98, 101, 0.74) 1px;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    
+    
+    
+}
+
+
+.Footer-section p{
+    font-size:12px;
+    opacity:0.7;
+}
+
+.About-section img{
+    border-radius:50%;
+    width:20rem;
+    height:20rem;
+    margin: 10px;
+    margin-right: 10px;
+    margin-bottom: 4rem;
+
+}
+.About-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    align-content: center;
+    margin: auto;
+    width:95% !important;
+    flex-wrap: wrap;
+    
+    
+}
+.About-Hero p{
+    font-size:20px;
+}
+.About-section p{
+    font-size:20px;
+    
+    
+}
+.row {
+    margin-left: 0; 
+    margin-right: 0;
+    gap: 0; 
+}
+
+.col-lg-6, .col-sm-12, .col-md-6 {
+    padding-left: 40px; 
+    padding-right: 70px; 
+}
+.nav-link {
+    color: black; 
+    text-decoration: none; 
+}
+
+.nav-link:hover {
+    color: blue; 
+    
+}
+.ProductButtons a{
+   margin-right:4rem;
+   
+
+}
+
+.ProductBadges a{
+    margin-right: 4rem;
+   
+    
+}
+.universe-section{
+    font-size: 20px;
+}
+.RightImage{
+    font-size:20px;
+    margin-top: 7rem;
+}
+
+.Universe-Footer p{
+    opacity: 0.7;
+    margin-top: 2rem;
+}
+
+.Universe-Footer img{
+    margin-top: 2rem;
+    width: 150px;
+    height: 150px;
+    object-fit:contain;
+    margin: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.Pricing-Hero{
+    text-align: center;
+    margin-top: 3rem;
+}
+.Pricing-Hero p{
+    opacity: 0.7;
+    margin-top: 2rem;
+    font-size: 20px;
+}
+.Pricing-Hero h4{
+    font-size:100px;
+    color: rgb(245, 163, 57);
+
+}
+
+
