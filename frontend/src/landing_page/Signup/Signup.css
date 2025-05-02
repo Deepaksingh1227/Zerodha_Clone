@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+label{
+    font-size:20px;
+    color: #0b0d0f;
+    margin-left: 10px;
+
+}
+
+.body{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.SignupPage{
+
+background-color:rgb(164, 164, 197);
+padding:32px 48px;
+width:100%;
+max-width: 400px;
+box-shadow:6px 8px 2px rgba(66, 68, 90, 1); 
+
+}
+.SignupPage h1{
+    margin-bottom: 2rem;
+    margin-left: 3rem;  
+}
+.SignupPage form{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+.SignupPage form input{
+    padding: 10px;
+    border-radius: 2rem;
+    border: none;
+    outline: none;
+    font-size: 1.2rem;
+}
+
+.SignupPage form input::placeholder{
+     font-size: 1rem;
+
+}
+.SignupPage form button{
+    padding: 10px;
+    border-radius: 2rem;
+    border: none;
+    background-color: purple;
+    color: #fff;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.SignupPage form button:hover{
+    background-color: #fff;
+    color: #4184f3;
+    border: 1px solid #4184f3;
+}
+
+
+
+
+
+

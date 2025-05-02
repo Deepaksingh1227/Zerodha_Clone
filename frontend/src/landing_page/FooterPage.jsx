@@ -11,28 +11,28 @@ function footerPage() {
                         <p> All rights reserved</p>
                         <div className="row Footer-Icon1" >
                             <div className="col-lg-3 col-sm-3 col-md-3">
-                            <i class="fa-brands fa-x-twitter"></i>
+                            <i className="fa-brands fa-x-twitter"></i>
                             </div>
                             <div className="col-lg-3 col-sm-3 col-md-3">
-                            <i class="fa-brands fa-facebook"></i>
+                            <i className="fa-brands fa-facebook"></i>
                             </div>
                             <div className="col-lg-3 col-sm-3 col-md-3">
-                            <i class="fa-brands fa-instagram"></i>
+                            <i className="fa-brands fa-instagram"></i>
                             </div>
                             <div className="col-lg-3 col-sm-3 col-md-3">
-                            <i class="fa-brands fa-linkedin"></i>
+                            <i className="fa-brands fa-linkedin"></i>
                             </div>
                         </div>
                         <hr/>
                         <div className="row Footer-Icon2">
                         <div className="col-lg-3 col-sm-3 col-md-3">
-                            <i class="fa-brands fa-youtube"></i>
+                            <i className="fa-brands fa-youtube"></i>
                             </div>
                             <div className="col-lg-3 col-sm-3 col-md-3">
-                            <i class="fa-brands fa-square-whatsapp"></i>
+                            <i className="fa-brands fa-square-whatsapp"></i>
                             </div>
                             <div className="col-lg-3 col-sm-3 col-md-3">
-                            <i class="fa-brands fa-telegram"></i>
+                            <i className="fa-brands fa-telegram"></i>
                             </div>
 
                         </div>
