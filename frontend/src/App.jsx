@@ -2,19 +2,19 @@ import React from "react";
 import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import HomePage from "./landing_page/home/HomePage";
+import HomePage from "./landing_page/home/HomePage.jsx";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Signup from "./landing_page/signup/Signup";
-import Login from "./landing_page/signup/Login";
-import Loading_Page from "./landing_page/about/LoadingPage";
-import PricingPage from "./landing_page/pricing/PricingPage";
-import Universe from "./landing_page/product/Universe";
-import Navbar from "./landing_page/NavBar";
-import FooterPage from "./landing_page/FooterPage";
-import SearchResults from "./landing_page/SearchResults";
+import Signup from "./landing_page/signup/Signup.jsx";
+import Login from "./landing_page/signup/Login.jsx";
+import Loading_Page from "./landing_page/about/LoadingPage.jsx";
+import PricingPage from "./landing_page/pricing/PricingPage.jsx";
+import Universe from "./landing_page/product/Universe.jsx";
+import Navbar from "./landing_page/NavBar.jsx";
+import FooterPage from "./landing_page/FooterPage.jsx";
+import SearchResults from "./landing_page/SearchResults.jsx";
 
-import SupportPage from "./landing_page/support/SupportPage";
-import NotFound from "./landing_page/NotFound";
+import SupportPage from "./landing_page/support/SupportPage.jsx";
+import NotFound from "./landing_page/NotFound.jsx";
 
 function App() {
   return (
