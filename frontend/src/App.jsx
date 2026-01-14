@@ -10,7 +10,7 @@ import Loading_Page from "./landing_page/about/LoadingPage";
 import PricingPage from "./landing_page/pricing/PricingPage";
 import Universe from "./landing_page/product/Universe";
 import Navbar from "./landing_page/NavBar";
-import FooterPage from "./Landing_page/FooterPage";
+import FooterPage from "./landing_page/FooterPage";
 import SearchResults from "./landing_page/SearchResults";
 
 import SupportPage from "./landing_page/support/SupportPage";
