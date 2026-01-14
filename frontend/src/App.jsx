@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import HomePage from "./landing_page/home/HomePage";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Signup from "./landing_page/signup/Signup";
+import Signup from "./landing_page/signup/signup";
 import Login from "./landing_page/signup/Login";
 import Loading_Page from "./landing_page/about/LoadingPage";
 import PricingPage from "./landing_page/pricing/PricingPage";
